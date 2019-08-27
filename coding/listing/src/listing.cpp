@@ -6,7 +6,7 @@ using std::cout; using std::cin; using std::list;
 using std::endl; using std::sort; using std:: string;
 
 
-int main()
+int main() 
 {
     list<string> array ;
     list<string>::iterator it;
