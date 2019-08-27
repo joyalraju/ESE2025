@@ -18,7 +18,7 @@ int main()
     cout<< "Sorted numbers are: "<<endl;
         int s= array.size();
            if(s==0)
-        {
+        { 
             cout<<"NO numbers"<<endl;
             return 1;
         }
